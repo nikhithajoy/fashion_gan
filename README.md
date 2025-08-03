@@ -1,4 +1,4 @@
-# 🧠 Fashion GAN Demo
+# Fashion GAN Demo
 
 A clean and modular implementation of a Generative Adversarial Network (GAN) for generating images based on the Fashion MNIST dataset. This project demonstrates a scalable architecture using OOP principles, PEP8 compliance, logging, callbacks, and model monitoring — making it suitable for both experimentation and production-grade pipelines.
 
